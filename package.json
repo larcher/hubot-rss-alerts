@@ -1,0 +1,19 @@
+{
+  "name": "hubot-rss-alerts",
+  "description": "A hubot script to announce RSS feed items in a channel.",
+  "version": "0.0.1",
+  "keywords": [
+    "hubot",
+    "rss"
+  ],
+  "author": "Larry Archer <larcher@spoon.cx>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/larcher/hubot-rss-alerts.git"
+  },
+  "readmeFilename": "README.md",
+  "main": "index.coffee",
+  "dependencies": {
+    "hubot": ">= 2.4.0"
+  }
+}
