@@ -1,7 +1,7 @@
 {
   "name": "hubot-rss-alerts",
   "description": "A hubot script to announce RSS feed items in a channel.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "hubot",
     "rss"
